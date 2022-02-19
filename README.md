@@ -120,3 +120,8 @@ Guidelines for filing issues / pull requests - [CONTRIBUTING.md](https://github.
 - [plumber](https://www.rplumber.io/)
 - [fiery](https://github.com/thomasp85/fiery)
 - [jug](https://github.com/Bart6114/jug) (development discontinued)
+
+## 加入开发
+1. 工具建议
+2. 测试
+
