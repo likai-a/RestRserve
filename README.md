@@ -123,5 +123,4 @@ Guidelines for filing issues / pull requests - [CONTRIBUTING.md](https://github.
 
 ## 加入开发
 1. 工具建议
-2. 测试
 
